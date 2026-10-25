@@ -1,0 +1,14 @@
+SG OBRAS & SERVICIOS — WEB INICIAL
+
+Incluye:
+- index.html: sitio adaptable a celular y computadora.
+- Diseño moderno grafito/cobre, navegación corta y botones de WhatsApp.
+- Secciones de servicios con detalles desplegables.
+- Galería con espacios reservados para fotos y videos reales.
+
+IMPORTANTE ANTES DE PUBLICAR:
+1. La galería todavía no contiene fotos reales; reemplazá los bloques reservados.
+2. Revisá el enlace de WhatsApp. Está configurado con el número compartido: 2944 326023 (formato internacional +54 9 2944 326023).
+3. Revisá los servicios y ofrecé solo tareas compatibles con tus habilitaciones y alcance.
+4. El dominio sgobrasyservicios.com.ar no está registrado ni incluido en estos archivos.
+5. Este paquete es el sitio, no una web ya publicada. Para ponerlo online necesitás subirlo a un hosting estático; una opción gratuita es GitHub Pages, con configuración inicial.
